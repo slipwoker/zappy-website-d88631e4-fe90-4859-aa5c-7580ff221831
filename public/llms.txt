@@ -1,0 +1,57 @@
+# הלוחש לכלבים — Generative Engine Optimization Map
+
+> A שירותי חיות מחמד business.
+
+---
+
+## Pages
+
+### Home
+https://-d88631e4.zappy5.app
+אימון כלבים מקצועי המבוסס על הקשבה, אמון וגישה רכה. פתרונות לבעיות התנהגות, טיולים מודרכים, וייעוץ לבעלים חדשים. ניסיון של 12+ שנים.
+
+### Services
+https://-d88631e4.zappy5.app/services
+מגוון שירותי אימון כלבים: אימון התנהגות אישי, טיולים קבוצתיים מודרכים, ייעוץ לבעלים חדשים, טיפול בחרדות ופוביות. פתרונות מותאמים אישית.
+
+### About
+https://-d88631e4.zappy5.app/about
+הכירו את הסיפור מאחורי הלוחש לכלבים. 12+ שנות ניסיון באימון כלבים מבוסס אמון, הקשבה וחיזוק חיובי. הסמכות בינלאומיות והתמחות בטיפול בחרדות.
+
+### Contact
+https://-d88631e4.zappy5.app/contact
+צרו קשר לשיחת היכרות חינם וללא התחייבות. זמינים בטלפון, וואטסאפ או דרך טופס יצירת קשר. נחזור אליכם תוך 24 שעות.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-d88631e4.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-d88631e4.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-d88631e4.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הלוחש לכלבים
+הלוחש לכלבים is a business in the שירותי חיות מחמד industry.
+
+## Target Audience
+בעלי כלבים מגיל 18+
+
+## Industry
+שירותי חיות מחמד
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-d88631e4.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-d88631e4.zappy5.app/robots.txt
